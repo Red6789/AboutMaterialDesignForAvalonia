@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TextColorProblem", "TextColorProblem", "{4BAB1C1E-472B-4571-9E67-071085164167}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextColorProblem", "TextColorProblem\TextColorProblem\TextColorProblem.csproj", "{853B4452-7CA4-40D7-B78B-AAD2FA9CA31D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextColorProblem.Android", "TextColorProblem\TextColorProblem.Android\TextColorProblem.Android.csproj", "{61CCC397-CD11-4971-9AD6-5F67FE5F2EDB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextColorProblem.Desktop", "TextColorProblem\TextColorProblem.Desktop\TextColorProblem.Desktop.csproj", "{0999EB51-8BED-4B1A-95D1-31E44B2006F1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextColorProblem.iOS", "TextColorProblem\TextColorProblem.iOS\TextColorProblem.iOS.csproj", "{350A05C0-AEC8-45EF-85A2-B6FA09005839}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextColorProblem.Browser", "TextColorProblem\TextColorProblem.Browser\TextColorProblem.Browser.csproj", "{AD7AE37F-EC91-4601-9956-0C540792F92B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{853B4452-7CA4-40D7-B78B-AAD2FA9CA31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{853B4452-7CA4-40D7-B78B-AAD2FA9CA31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{853B4452-7CA4-40D7-B78B-AAD2FA9CA31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{853B4452-7CA4-40D7-B78B-AAD2FA9CA31D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61CCC397-CD11-4971-9AD6-5F67FE5F2EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61CCC397-CD11-4971-9AD6-5F67FE5F2EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61CCC397-CD11-4971-9AD6-5F67FE5F2EDB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{61CCC397-CD11-4971-9AD6-5F67FE5F2EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61CCC397-CD11-4971-9AD6-5F67FE5F2EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61CCC397-CD11-4971-9AD6-5F67FE5F2EDB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0999EB51-8BED-4B1A-95D1-31E44B2006F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0999EB51-8BED-4B1A-95D1-31E44B2006F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0999EB51-8BED-4B1A-95D1-31E44B2006F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0999EB51-8BED-4B1A-95D1-31E44B2006F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{350A05C0-AEC8-45EF-85A2-B6FA09005839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350A05C0-AEC8-45EF-85A2-B6FA09005839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{350A05C0-AEC8-45EF-85A2-B6FA09005839}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{350A05C0-AEC8-45EF-85A2-B6FA09005839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{350A05C0-AEC8-45EF-85A2-B6FA09005839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{350A05C0-AEC8-45EF-85A2-B6FA09005839}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{AD7AE37F-EC91-4601-9956-0C540792F92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD7AE37F-EC91-4601-9956-0C540792F92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD7AE37F-EC91-4601-9956-0C540792F92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD7AE37F-EC91-4601-9956-0C540792F92B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{853B4452-7CA4-40D7-B78B-AAD2FA9CA31D} = {4BAB1C1E-472B-4571-9E67-071085164167}
+		{61CCC397-CD11-4971-9AD6-5F67FE5F2EDB} = {4BAB1C1E-472B-4571-9E67-071085164167}
+		{0999EB51-8BED-4B1A-95D1-31E44B2006F1} = {4BAB1C1E-472B-4571-9E67-071085164167}
+		{350A05C0-AEC8-45EF-85A2-B6FA09005839} = {4BAB1C1E-472B-4571-9E67-071085164167}
+		{AD7AE37F-EC91-4601-9956-0C540792F92B} = {4BAB1C1E-472B-4571-9E67-071085164167}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C2A5962-4F9A-4822-8D3C-1ACBE40142F7}
+	EndGlobalSection
+EndGlobal
